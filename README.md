@@ -13,6 +13,16 @@ This project is a **modern, visually appealing, and user-friendly architecture w
 ✅ **Project Gallery** – Showcasing architectural works with high-quality images.  
 ✅ **About & Contact Sections** – Providing firm details and easy communication access.  
 
+## 🖼️ Design Snapshots  
+
+### Main Page  
+![Main Page](./Screenshot_2025-02-08_at_1.37.11_PM.png)  
+The main page features a **clean and modern layout** with project highlights and intuitive navigation.  
+
+### Photo Gallery  
+![Photo Gallery](./Screenshot_2025-02-08_at_1.37.51_PM.png)  
+A beautifully designed gallery to showcase **architectural masterpieces and achievements**.  
+
 ## 🔧 Technologies Used  
 - **Figma** – UI/UX Design  
 - **Typography & Color Theory** – For enhanced visual hierarchy  
@@ -33,4 +43,4 @@ For any suggestions or collaborations, feel free to reach out!
 
 ---
 
-Let me know if you want any changes! 😊  
+Let me know if you’d like to refine this further! 😊  
